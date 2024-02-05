@@ -1,12 +1,24 @@
-React Blog with Appwrite
-A brief description of what this project does and who it's for:
 
-Deployment
+# React Blog with Appwrite
+
+A brief description of what this project does and who it's for
+
+
+## Deployment
+
 To deploy this project run
+
+```bash
   npm run dev
-  
-Installation
+```
+
+
+## Installation
+
 Install my-project with npm
 
-npm install React-Blog
-cd React-Blog
+```bash
+  npm install React-Blog
+  cd React-Blog
+```
+    
