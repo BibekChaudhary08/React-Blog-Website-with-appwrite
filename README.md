@@ -1,7 +1,7 @@
 
 # React Blog with Appwrite
 
-This is a production level Blog Wesbite made with React.js and Appwrite as Backend.
+This is a production level Blog Wesbite made with React.js, Redux, Routing, TinyMce, Tailwind Css, etc and Appwrite for Backend.
 
 
 ## Deployment
