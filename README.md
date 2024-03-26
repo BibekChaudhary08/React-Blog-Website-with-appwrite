@@ -1,7 +1,7 @@
 
 # React Blog with Appwrite
 
-A brief description of what this project does and who it's for
+This is a production level Blog Wesbite made with React.js and Appwrite as Backend.
 
 
 ## Deployment
